@@ -84,7 +84,6 @@ server <- function(input, output) {
         geom_histogram(bins = 10, fill = input$color_option, color = "black") +
         theme_minimal()+
         labs(title = "Histogram of runif(input$n) ",
-             subtitle = "Generated using runif() with n = 200",
              x = "runif(input$n)",
              y = "Frequency")
     } 
