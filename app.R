@@ -102,7 +102,7 @@ server <- function(input, output) {
         geom_jitter(color = "steelblue", width = 0.1, alpha = 0.5, size = 1.5) +
         
         labs(
-          title = "Histogram of runif(input$n) with individual points",
+          title = "Boxplot of runif(input$n) with individual points",
           
           #dynamic x axis label based on slidebar input 
           

@@ -5,7 +5,7 @@ account: estifanos1
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 18161509
-bundleId: 12682512
+bundleId: 12682534
 url: https://estifanos1.shinyapps.io/brook_estifanos_homework_4/
 version: 1
 asMultiple: FALSE
